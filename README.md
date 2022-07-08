@@ -8,7 +8,7 @@ All things tech! I got my first look into the world of programming on 2021, I wa
 
 * 🌍  I'm based in Quito, Ecuador
 * ✉️  You can contact me at [web.arod@gmail.com](mailto:web.arod@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  Currently learning Next.js
 
 ### Skills
 
