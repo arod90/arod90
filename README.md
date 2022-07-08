@@ -38,3 +38,6 @@ All things tech! I got my first look into the world of programming on 2021, I wa
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/arod90"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arod90&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
