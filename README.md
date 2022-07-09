@@ -5,7 +5,7 @@ Full stack web developer, UI/UX Enthusiast
 ------------------------------------------
 
 All things tech!
-Full-stack Developer currently based in Quito, Ecuador. I've had the wonderful chance to live, work, and study in places like Mexico, China, Barcelona and the United States. I thoroughly enjoy creating great user experiences, and have a knack for problem solving, passionate about helping companies and people establish a great online presence through unique web experiences. Outside of work I'm a huge fan of competitive paintball, E-sports, Music, and the great outdoors. 
+Full-stack Developer currently based in Quito, Ecuador. I've had the wonderful chance to live, work, and study in places like Mexico, Ecuador, China, Barcelona and the United States. I thoroughly enjoy creating great user experiences, and have a knack for problem solving, passionate about helping companies and people establish a great online presence through unique web experiences. Outside of work I'm a huge fan of competitive paintball, E-sports, Music, and the great outdoors. 
 
 * 🌍  I'm based in Quito, Ecuador
 * ✉️  You can contact me at [web.arod@gmail.com](mailto:web.arod@gmail.com)
