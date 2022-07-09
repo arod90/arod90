@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack web developer, UI/UX Enthusiast
 ------------------------------------------
 
-All things tech! I got my first look into the world of programming on 2021, I was creating simple websites using HTML & CSS templates. During this period I realized that incorporating JavaScript in my projects could really boost the quality of my creations, so I decided to pursue a formal education. I joined Codeworks in Barcelona where I fell in love with React I've been working with it it ever since.
+All things tech!
+Full-stack Developer currently based in Quito, Ecuador. I've had the wonderful chance to live, work, and study in places like Mexico, China, Barcelona and the United States. I am passionate about creating great user experiences, and have a knack for problem solving, Looking to help people establish a great online presence through unique web experiences. Outside of work I'm a huge fan of competitive paintball, E-sports, Music, and the great outdoors. 
 
 * 🌍  I'm based in Quito, Ecuador
 * ✉️  You can contact me at [web.arod@gmail.com](mailto:web.arod@gmail.com)
