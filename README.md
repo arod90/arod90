@@ -50,4 +50,12 @@ All things tech! I got my first look into the world of programming on 2021, I wa
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 <!--START_SECTION:waka-->
+
+```text
+CSS          50 mins         █████████████████▓░░░░░░░   70.09 %
+TypeScript   19 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
+JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+```
+
 <!--END_SECTION:waka-->
