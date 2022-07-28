@@ -38,8 +38,9 @@ Full-stack Developer currently based in Quito, Ecuador. I've had the wonderful c
 <!--START_SECTION:waka-->
 
 ```text
-CSS          38 mins         ████████████████████████▓   99.13 %
+CSS          38 mins         ████████████████████████▓   98.51 %
 JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
