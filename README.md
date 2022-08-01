@@ -35,17 +35,6 @@ Full-stack Developer currently based in Quito, Ecuador. I've had the wonderful c
 
 <p align="left"> <a href="https://www.github.com/arod90" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" color="white" width="32" height="32" /></a> <a href="http://www.instagram.com/arod90_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-<!--START_SECTION:waka-->
-
-```text
-CSS          38 mins         ████████████████████████▓   98.51 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-```
-
-<!--END_SECTION:waka-->
-
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/arod90" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arod90&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
