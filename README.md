@@ -9,7 +9,6 @@ Full-stack Developer currently based in Quito, Ecuador. I've had the wonderful c
 
 * 🌍  I'm based in Quito, Ecuador
 * ✉️  You can contact me at [web.arod@gmail.com](mailto:web.arod@gmail.com)
-* 🧠  Currently learning Next.js
 
 ### Skills
 
